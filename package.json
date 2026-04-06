@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Manish3791/TS---Practice/issues"
   },
-  "homepage": "https://github.com/Manish3791/TS---Practice#readme"
+  "homepage": "https://github.com/Manish3791/TS---Practice#readme",
+  "dependencies": {
+    "typescript": "^6.0.2"
+  }
 }
